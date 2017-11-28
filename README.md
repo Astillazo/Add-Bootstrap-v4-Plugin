@@ -1,8 +1,9 @@
 # Add Bootstrap v4 Library
-* **Author:** [Antonio Madera](https://twitter.com/Astillazo)
+* **Author:** [Antonio Madera](http://antoniomadera.com)
 * **License:** GPLv2 or later
 * **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 * **Requires at least:** 4.8.3
+* **Tested up to:** 4.9
 
 ## Description
 This plugin adds bootstrap library v4 to your Wordpress installation. It is ideal for designers or developers that use Bootstrap Framework to desgin their webpage.
